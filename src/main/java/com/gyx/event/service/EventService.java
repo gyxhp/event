@@ -1,6 +1,6 @@
-package com.gyx.service;
+package com.gyx.event.service;
 
-import com.gyx.event.EmailEvent;
+import com.gyx.event.event.EmailEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Service;

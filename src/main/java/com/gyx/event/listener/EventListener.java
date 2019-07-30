@@ -1,7 +1,7 @@
-package com.gyx.listener;
+package com.gyx.event.listener;
 
 
-import com.gyx.event.EmailEvent;
+import com.gyx.event.event.EmailEvent;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 

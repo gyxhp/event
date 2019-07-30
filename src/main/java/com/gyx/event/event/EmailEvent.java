@@ -1,4 +1,4 @@
-package com.gyx.event;
+package com.gyx.event.event;
 
 import lombok.Getter;
 import org.springframework.context.ApplicationEvent;

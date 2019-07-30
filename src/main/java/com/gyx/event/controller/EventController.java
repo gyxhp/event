@@ -1,6 +1,6 @@
-package com.gyx.controller;
+package com.gyx.event.controller;
 
-import com.gyx.service.EventService;
+import com.gyx.event.service.EventService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
